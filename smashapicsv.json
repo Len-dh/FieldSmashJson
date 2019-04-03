@@ -1,29 +1,32 @@
 [
- {
-   "name": "Mario",
-   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mario.png",
-   "serie": "Super Mario",
-   "firstApp": "Donkey Donkey Kong (1981)",
-   "descCharac": "Mario est la mascotte de Nintendo et le tout premier combattant de la série Super Smash Bros. Dans celle-ci, il excelle par son contrôle du terrain grâce à ses projectiles et sa capacité à dévier les adversaires. Il est également agile et capable de mettre des coups puissants.",
-   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Mario.png",
-   "tiersRanking": "Middle Tiers"
- },
- {
-   "name": "Donkey Kong",
-   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/donkey_kong.png",
-   "serie": "Donkey Kong",
-   "firstApp": "Donkey Donkey Kong (1981)",
-   "descCharac": "Donkey Kong est le premier rival de Mario, avant qu'il n'ait droit à sa propre série. Dans Smash Bros Ultimate, il s'agit d'un personnage lourd à très courte portée qui doit canaliser ses coups avant de frapper. Cependant, quand il touche, l'adversaire prend énormément de dégâts et s'envole très loin. Il est aussi capable de saisir ses adversaires et de les promener sur le terrain avant de les jeter.",
-   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DonkeyKong.png",
-   "tiersRanking": "High Tier"
- },
- {
-   "name": "Link",
-   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/link.png",
-   "serie": "The Legend of Zelda",
-   "firstApp": "",
-   "descCharac": "Link est le héros de The Legend of Zelda, ou du moins l'un des héros puisqu'à chaque jeu son Link. Dans Smash Bros Ultimate, il s'agit du Link de Zelda Breath of the Wild. Il possède un arsenal d'armes et d'outils pour palier à toutes les situations, dont de nouvelles bombes à détonation. Il s'agit d'un personnage plutôt équilibré pour débuter.",
-   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Link.png",
-   "tiersRanking": "High Tier"
- }
-]
+  {
+    "name": "Mario",
+    "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mario.png",
+    "serie": "Super Mario",
+    "firstApp": "Donkey Donkey Kong (1981)",
+    "descCharac": "Mario est la mascotte de Nintendo et le tout premier combattant de la série Super Smash Bros. Dans celle-ci, il excelle par son contrôle du terrain grâce à ses projectiles et sa capacité à dévier les adversaires. Il est également agile et capable de mettre des coups puissants.",
+    "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Mario.png",
+    "tiersRanking": "Middle Tiers",
+    "imaGif": "https://thumbs.gfycat.com/DampClearDogfish-max-1mb.gif"
+  },
+  {
+    "name": "Donkey Kong",
+    "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/donkey_kong.png",
+    "serie": "Donkey Kong",
+    "firstApp": "Donkey Donkey Kong (1981)",
+    "descCharac": "Donkey Kong est le premier rival de Mario, avant qu'il n'ait droit à sa propre série. Dans Smash Bros Ultimate, il s'agit d'un personnage lourd à très courte portée qui doit canaliser ses coups avant de frapper. Cependant, quand il touche, l'adversaire prend énormément de dégâts et s'envole très loin. Il est aussi capable de saisir ses adversaires et de les promener sur le terrain avant de les jeter.",
+    "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DonkeyKong.png",
+    "tiersRanking": "High Tier",
+    "imaGif": "https://thumbs.gfycat.com/TerribleVastDowitcher-max-1mb.gif"
+  },
+  {
+    "name": "Link",
+    "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/link.png",
+    "serie": "The Legend of Zelda",
+    "firstApp": "",
+    "descCharac": "Link est le héros de The Legend of Zelda, ou du moins l'un des héros puisqu'à chaque jeu son Link. Dans Smash Bros Ultimate, il s'agit du Link de Zelda Breath of the Wild. Il possède un arsenal d'armes et d'outils pour palier à toutes les situations, dont de nouvelles bombes à détonation. Il s'agit d'un personnage plutôt équilibré pour débuter.",
+    "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Link.png",
+    "tiersRanking": "High Tier",
+    "imaGif": "https://thumbs.gfycat.com/TerribleVastDowitcher-max-1mb.gif"
+  }
+ ]
