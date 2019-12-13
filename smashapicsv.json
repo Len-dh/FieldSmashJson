@@ -1,0 +1,686 @@
+[
+ {
+   "name": "Mario",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mario.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Donkey Donkey Kong (1981)",
+   "descCharac": "Mario est la mascotte de Nintendo et le tout premier combattant de la série Super Smash Bros. Dans celle-ci, il excelle par son contrôle du terrain grâce à ses projectiles et sa capacité à dévier les adversaires. Il est également agile et capable de mettre des coups puissants.",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Mario.png",
+   "tiersRanking": "Middle Tiers"
+ },
+ {
+   "name": "Donkey Kong",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/donkey_kong.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/donkeykong_en.png",
+   "firstApp": "Donkey Donkey Kong (1981)",
+   "descCharac": "Donkey Kong est le premier rival de Mario, avant qu'il n'ait droit à sa propre série. Dans Smash Bros Ultimate, il s'agit d'un personnage lourd à très courte portée qui doit canaliser ses coups avant de frapper. Cependant, quand il touche, l'adversaire prend énormément de dégâts et s'envole très loin. Il est aussi capable de saisir ses adversaires et de les promener sur le terrain avant de les jeter.",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DonkeyKong.png",
+   "tiersRanking": "High Tier"
+ },
+ {
+   "name": "Link",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/link.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda (1986)\n\n",
+   "descCharac": "Link est le héros de The Legend of Zelda, ou du moins l'un des héros puisqu'à chaque jeu son Link. Dans Smash Bros Ultimate, il s'agit du Link de Zelda Breath of the Wild. Il possède un arsenal d'armes et d'outils pour palier à toutes les situations, dont de nouvelles bombes à détonation. Il s'agit d'un personnage plutôt équilibré pour débuter.",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Link.png",
+   "tiersRanking": "High Tier"
+ },
+ {
+   "name": "Samus",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/samus.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/metroid_en.png",
+   "firstApp": "Metroid (1986)\n\n",
+   "descCharac": "Avec son super tir, son missile et sa bombe, Samus possède trois projectiles différents pour tenir ses adversaires à distance. Une fois chargé à bloc, son super tir devient une arme redoutable. Son Smash final est un large rayon laser pouvant être orienté vers le haut ou le bas !",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Samus.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Samus Sombre",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_samus.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/metroid_en.png",
+   "firstApp": "Metroid Prime (2002)\n\n",
+   "descCharac": "Samus Sombre est la manifestation du Metroid Prime, après son combat contre Samus sur Aether. Il s'agit du combattant écho de Samus, il partage donc la plupart de ses caractéristiques. Sa principale différence se situe au niveau de l'élément de ses tirs qui sont électrifiés, tandis que ceux de Samus sont enflammés. Elle fait donc moins de dégâts mais immobilise les adversaires plus longtemps.",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DarkSamus.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Yoshi",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/yoshi.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/yoshi_en.png",
+   "firstApp": "Super Mario World (1990)\n\n",
+   "descCharac": "Yoshi est passé du statut de fidèle monture de Mario à héros de sa propre série de jeux vidéo. Dans Smash Bros Ultimate, Yoshi possède autant d'outils pour s'approcher de ses adversaires que pour les tenir à distance. Plutôt léger, il a tendance à attaquer par dessus les adversaires.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Yoshi.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Kirby",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/kirby.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/kirby_en.png",
+   "firstApp": "Kirby's Dream Land (1992)\n\n\n\n",
+   "descCharac": "Kirby est un personnage créé par Masahiro Sakurai et très populaire au Japon. Dans Smash Bros Ultimate, il fait partie des personnages les plus légers, capable de s'envoler et se maintenir en l'air pendant un long moment. Sa particularité vient du fait qu'il peut avaler ses adversaires pour copier leurs pouvoirs et les utiliser contre-eux. \n\n\n\n\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Kirby.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Fox",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/fox.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/starfox_en_sp.png",
+   "firstApp": "Star Fox (1993)\n\n",
+   "descCharac": "Fox est le héros du premier jeu en 3 dimensions de Nintendo. Dans Smash Bros Ultimate, il utilise sa vitesse et ses capacités pour ne laisser aucune place aux contre-attaques. Il est en revanche plutôt faible et doit faire durer le combat pour accumuler les dégâts nécessaires à une victoire.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Fox.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Pikachu",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pikachu.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge / Verte (1996)\n\n",
+   "descCharac": "Pikachu est la mascotte bien connue de la franchise Pokémon. Dans Smash Bros Ultimate, il utilise sa très grande vitesse pour se tenir à bonne distance et ses capacités électriques pour interrompre les mouvements des adversaires. Il est cependant très léger, ce qui le rend vulnérable aux attaques puissantes.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Pikachu.pngv",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Luigi",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/luigi.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Mario Bros. (1983)\n\n",
+   "descCharac": "Luigi est le frère un peu trouillard de Mario. Il est vu comme un anti-héros mais possède de vrais fans. Dans Smash Bros Ultimate, il était un clone de Mario avant de développer sa propre personnalité. Il punit tous les adversaires qui s'approchent un peu trop de lui en les projetant dans diverses directions.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Luigi.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ness",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ness.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mother_en_sp.png",
+   "firstApp": "Mother 2 : EarthBound (1994)\n\n",
+   "descCharac": "Ness est le héros de de Mother 2, un RPG méconnu mais aux très grandes qualités. Dans Smash Bros Ultimate, il utilise ses capacités PSI pour palier à toutes les situations. Ces dernières sont en revanche plutôt compliquées à utiliser, même si elles sont très puissantes.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ness.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Captain Falcon ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/captain_falcon.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/f-zero_en.png",
+   "firstApp": "F-Zero (1990)\n\n",
+   "descCharac": "Captain Falcon est un chasseur de prime et pilote de Formule Zéro dans la première série de jeux de courses F-Zero. Dans Smash Bros Ultimate, il s'agit d'un personnage rapide et puissant qui excelle au corps-à-corps. En revanche, il éprouve des difficultés à envoyer voler ses adversaires.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/CaptainFalcon.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Rondoudou",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/jigglypuff.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge / Verte (1996)\n\n",
+   "descCharac": "Rondoudou est un Pokémon mignon dont la popularité a grandi grâce au dessin-animé. Dans Smash Bros Ultimate, il est l'un des personnages les plus à l'aise dans les airs. Il peut sauter jusqu'à 5 fois sans avoir besoin de toucher le sol et sa vitesse de déplacement est plus élevée en l'air. Sa légereté peut également être une faiblesse quand il s'agit d'encaisser des coups.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Rondoudou.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Peach",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/peach.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Super Mario Bros. (1985)\n\n",
+   "descCharac": "Peach est la princesse que Mario doit sauver, encore et encore. Pourtant, elle a prouvé à plus d'une reprise dans Smash Bros Ultimate qu'elle savait se défendre. Aussi bien capable de se battre à distance ou au corps-à-corps, Peach excelle cependant dans les airs grâce à son parasol et ses pieds destructeurs.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Peach.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Daisy",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/daisy.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Super Mario Land (1989)\n\n",
+   "descCharac": "Daisy est la princesse de Sarasaland et possède un tempérament plus explosif que Peach. Dans Smash Bros Ultimate, elle est un combattant écho de cette dernière, utilisant les même techniques de combat. Elle partage donc ses qualités et ses faiblesses.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Daisy.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Browser",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Super Mario Bros. (1985)\n\n",
+   "descCharac": "Bowser est le Roi des Koopas, bien décide à faire tout ce qui est en son pouvoir pour épouser la princesse Peach. Dans Smash Bros Ultimate, il s'agit d'un personnage lourd ayant énormément d'impact. La plupart de ses coups font voler les adversaires dans différents angles. Il est également capable de saisir un ennemi avant de se jeter dans le vide avec lui pour assurer un point.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Bowser.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ice climbers",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ice_climbers.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/iceclimber_en.png",
+   "firstApp": "Ice Climber \n1984\n\n",
+   "descCharac": "Popo et Nana, plus connus sous le nom des Ice Climbers, sont de petits personnages datant de l'époque où Nintendo faisait des jeux d'arcade. Dans Smash Bros Ultimate, vous controlez en fait deux personnages en un seul. Les mouvements que vous ferez avec l'un seront imités par le second, ce qui rend ce duo très fort. En revanche, vos ennemis peuvent se débarasser de votre binome, ce qui amoindrira considérablement vos dégâts.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/IceClimbers.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Sheik",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sheik.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda : Ocarina of Time (1998)\n\n",
+   "descCharac": "Sheik est l'alter-ego Sheikah de la princesse Zelda. Cette forme lui permet de conserver son anonymat et d'utiliser différents pouvoirs. Dans Smash Bros Ultimate, il s'agit d'un personnage dissocié de la princesse Zelda. Sa très grande vitesse et ses différentes armes lui permettent de ne laisser aucun répis à ses adversaires. Il s'agit d'un des personnages les plus techniques.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Sheik.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Zelda",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zelda.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda (1996)\n\n",
+   "descCharac": "La princesse Zelda est l'héritière de la Triforce de la Sagesse. A l'image de Link, chaque génération voit naitre une différente Zelda. Dans Smash Bros Ultimate, il s'agit de la Zelda de l'épisode A Link to the Past. Elle se spécialise dans l'utilisation de sortilèges puissants et le combat à distance. Elle a en revanche plus de mal à se défendre au corps-à-corps.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Zelda.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Dr. Mario",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dr_mario.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Dr. Mario  1990",
+   "descCharac": "Dr. Mario est une des nombreuses variations de Mario du début de sa carrière. En l'occurence, il était la mascotte d'un Puzzle Game où il fallait arrêter des virus. Dans Smash Bros Ultimate, il s'agit d'un personnage intermédiaire combinant certains aspects de Mario et de Luigi.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Dr.Mario.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Pichu",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pichu.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Or et Argent (1999)\n\n",
+   "descCharac": "Pichu est la pré-évolution de Pikachu apparue dans les versions Or et Argent. Dans Smash Bros Ultimate, il copie les mouvements de Pikachu, mais possède des propriétés bien différentes. Utiliser une attaque spéciale occasionne des dégâts à Pichu, il faut donc les utiliser avec parcimonie. Il s'agit également du personnage le plus léger du jeu, et de très loin.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Pichu.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Falco",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/falco.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/starfox_en_sp.png",
+   "firstApp": "Star Fox (1993)\n\n",
+   "descCharac": "Falco est l'ailier de Fox. Il est plus taciturne que son capitaine, mais n'en reste pas moins un pilote d'exception. Dans Smash Bros Ultimate, il utilise les compétences de Fox, mais de manière un peu différente. Il est plus agressif et demande un meilleur sens du timing, mais n'en reste pas moins un personnage équilibré et capable de se sortir de la plupart des situations.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Falco.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Marth",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/marth.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem: The Dark Dragon and Sword of Light (1990)\n\n",
+   "descCharac": "Marth est le prince d'Altea et le premier héros de la série de jeu de stratégies Fire Emblem. Dans Smash Bros Ultimate, il compte plus sur ses coups basiques et la portée de sa lame que sur ses différentes attaques spéciales. Les dégâts de Marth sont plus important quand il frappe avec le bout de son épée. Marth est rapide et fort, mais demande une lecture du jeu exemplaire.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Marth.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Lucina",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucina.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem Awakening (2012)\n\n",
+   "descCharac": "Lucina est une princesse venue du futur et se faisant passer pour Marth. A ce titre, il s'agit d'un combattant écho de Marth dans Smash Bros Ultimate. Contrairement à Marth, elle fait plus de dégâts avec le filet de sa lâme, ce qui en fait un personnage plus régulier et constant, surtout pour mettre K.O. les adversaires déjà blessés.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Lucina.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Link Enfant",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/young_link.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda : Ocarina of Time (1998)\n\n",
+   "descCharac": "Link Enfant est l'héritier de la Triforce du Courage dans Zelda : Ocarina of Time. Dans Smash Bros Ultimate, il conserve finalement les attaques que possédait le Link adulte dans les épisodes précédents. Il dispose tout de même de certaines particularités comme des flèches enflammées.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/LinkEnfant.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ganondorf",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ganondorf.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda : Ocarina of Time (1998)\n\n",
+   "descCharac": "Ganondorf est l'héritier de la Triforce de la Force dans Ocarina of Time et l'incarnation du Néant. Dans Smash Bros Ultimate, il s'agit d'un des personnages les plus lourd du jeu. Alors qu'il copiait autrefois les mouvements de Captain Falcon, il dispose maintenant de ses propres attaques et il est capable d'utiliser une épée pour ses attaques Smash.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ganondorf.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Mewtwo",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mewtwo.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge et Verte (1996)\n\n",
+   "descCharac": "Mewtwo est le Pokémon ultime et le plus puissant. Aucun autre Pokémon ne lui arrive à la cheville en terme de puissance et d'intelligence. Dans Smash Bros Ultimate, il s'agit d'un combattant rapide, capable d'effectuer de puissants combos après avoir effectué une de ses prises. Il est en revanche ouvert aux attaques ennemis s'il rate ses assauts et sa grande taille le rend facile à toucher.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Mewtwo.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Roy",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/roy.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Super Smash Bros Melee (2001)\n\n",
+   "descCharac": "Roy est le fils d'Eliwood et le héros du premier Fire Emblem sur Game Boy Advance. Il est apparu dans Smash Bros avant d'apparaitre dans Fire Emblem, afin de faire la promotion de son jeu. Dans Smash Bros Ultimate, il s'agit d'un personnage assez similaire à Marth, à l'exception que ses attaques sont plus puissantes que ses attaques de base. Elles ont aussi la particularité d'être en feu.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Roy.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Chrom",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/chrom.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem Awakening (2012)\n\n",
+   "descCharac": "Chrom est le père de Lucina et le héros de Fire Emblem Awakening. Dans Smash Bros Ultimate, il est combattant écho de Roy, qui emprunte quelques attaques à Ike. S'il frappe plus fort et rapide que Roy, il est en revanche extrêment vulnérable s'il est expédié hors du terrain, ce qui le rend très plutôt complexe à jouer.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Chrom.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Mr. GAME AND WATCH",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mr_game_and_watch.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/gamewatch_en.png",
+   "firstApp": "Ball (1980)\n\n",
+   "descCharac": "Mr. Game & Watch est le petit personnage qui apparaissait dans tous les jeux électroniques de Nintendo, avant qu'ils ne produisent des jeux sur console. Dans Smash Bros Ultimate, le personnage a subi de nombreuses modifications de ses attaques basiques qui en font le roi des projectiles, surtout dans les airs. Il possède également un facteur aléatoire sur quelques attaques spéciales qui peuvent renverser la partie.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/GameWatch.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Meta Knight",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/meta_knight.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/kirby_en.png",
+   "firstApp": "Kirby's Adventure (1993)\n\n",
+   "descCharac": "Meta Knight est le rival de Kirby. Tantôt adversaire, tantôt allié, il est difficile de connaitre ses véritables intentions. Dans Smash Bros Ultimate, il compense sa très courte portée par une excellente mobilité et des combos d'attaques basiques rapides et efficaces. Bien qu'il soit très léger, il dispose de très nombreux outils pour revenir sur le terrain.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/MetaKnight.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Pit",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pit.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/palutena_en_sp.png",
+   "firstApp": "Kid Icarus (1986)\n\n",
+   "descCharac": "Pit est le héros de la série oubliée Kid Icarus, repopularisée grâce à Smash Bros. Brawl. Il tient ses différents pouvoirs de Dame Palutena. Dans Smash Bros. Ultimate, il s'agit d'un personne très équilibré, parfait pour les débutants. Il est aussi bien capable d'attaquer à distance qu'au corps-à-corps et possède de nombreuses des solutions défensives.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Pit.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Pit Maléfique",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_pit.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/palutena_en_sp.png",
+   "firstApp": "Kid Icarus : Uprising (2012)\n\n",
+   "descCharac": "Pit Maléfique est une copie de Pit créée lorsque ce dernier a brisé le miroir d'Hadès. Dans Smash Bros. Ultimate, il s'agit logiquement d'un combattant écho de Pit. Il est plus puissant que Pit, mais également plus rigide et plus lent.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DarkPit.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Samus sans armure",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zero_suit_samus.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/metroid_en.png",
+   "firstApp": "Metroid Zero Mission (2004)\n\n",
+   "descCharac": "Samus sans Armure est finalement la véritable Samus, lorsqu'elle n'est pas dans sa combinaison de puissance. Elle n'en reste pas moins redoutable dans Smash Bros. Ultimate, puisqu'elle y est équipée d'un pistolet neutralisant, d'un fouet et de bottes fusées. Il s'agit d'un des personnages les plus rapides et insaisissables du jeu. Elle fait la part belle aux combos et au projections en tout genre. Elle est en revanche plutôt fragile.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/ZeroSuitSamus.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Wario",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wario.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/wario_en_sp.png",
+   "firstApp": "Super Mario Land 2 (1992)\n\n",
+   "descCharac": "Wario est un personnage dégoutant et cupide qui profite de sa (relative) ressemblance avec Mario pour se faire passer pour lui et s'attirer différentes faveurs. Dans Smash Bros Ultimate, c'est un personnage qui utilise à merveille ce qui l'entourre. Son gameplay tourne également beaucoup autour de sa moto qui lui permet d'autres mouvements.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Wario.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Snake",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/snake.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/metalgear_en.png",
+   "firstApp": "Metal Gear (1987)\n\n",
+   "descCharac": "Snake est le héros de la franchise Metal Gear de Konami. Il s'agit d'un guerrier reconverti en espion, luttant contre la prolifération des armes nucléaires. Dans Smash Bros. Ultimate, il utilise de nombreuses armes explosives pour piéger ses adversaires et les envoyer voler. Il est très lourd et puissant, mais nécessite de la préparation.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Snake.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ike",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ike.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem : Path of Radiance (2005)\n\n",
+   "descCharac": "Ike est chef d'une bande de mercenaire et le héros de deux épisodes de Fire Emblem. Dans Smash Bros. Ultimate, il utilise sa très longue épée pour donner des coups dévastateur à bonne distance. Ses attaques sont puissantes et éjectent très loin, mais le contre-coup fait qu'il est vulnérable un bon moment après chaque attaque. Il s'agit du personnage lourd le plus facile à manier pour les débutants.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ike.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Dresseur Pokmeon avec Carapuce ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pokemon_trainer.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge et Verte (1996)\n\n",
+   "descCharac": "Carapuce est l'un des premiers Pokémon de la franchise. Dans Smash Bros. Ultimate, il est associé à Herbizarre et Dracaufeu sous la direction du Dresseur de Pokémon. Il s'agit du Pokémon le plus rapide du trio. Il n'est pas très puissant, mais il a les armes nécessaires pour déranger les adversaires et les interrompre.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Carapuce.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Dresseur Pokmeon avec Herbizarre",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pokemon_trainer.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge et Verte (1996)\n\n",
+   "descCharac": "Herbizarre est l'évolution d'un des premiers Pokémon de la franchise. Dans Smash Bros. Ultimate, il est associé à Carapuce et Dracaufeu sous la direction du Dresseur de Pokémon. Il maitrise les attaques à distances et possède de bons outils pour expulser ses adversaires. Il est plus lent que Carapuce, mais bien plus maniable et rapide que Dracaufeu.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Herbizarre.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Dresseur Pokmeon avec Dracaufeu",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pokemon_trainer.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Rouge et Verte (1996)\n\n",
+   "descCharac": "Dracaufeu est la mascotte de Pokémon Rouge et l'évolution d'un des premiers Pokémon de la franchise. Dans Smash Bros. Ultimate, il est associé à Carapuce et Herbizarre sous la direction du Dresseur de Pokémon. Il s'agit d'un Pokémon très lent, mais très puissant. Dracaufeu préfère le corps-à-corps et occasionne de très lourds dégâts.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Dracaufeu.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Diddy Kong",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/diddy_kong.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/donkeykong_en.png",
+   "firstApp": "Donkey Kong Country (1994)\n\n",
+   "descCharac": "Diddy Kong est le side-kick de Donkey Kong depuis 25 ans, en plus d'avoir droit à ses propres jeux. Dans Smash Bros. Ultimate, il fait partie des personnages les plus surveillés par la scène compétitive. Diddy est rapide, puissant et possède d'excellents combo qui ont fait de lui le meilleur personnage de Smash 4. Il conserve nombre de ses qualités dans Ultimate.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DiddyKong.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Lucas",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucas.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mother_en_sp.png",
+   "firstApp": "Mother 3 (2006)\n\n",
+   "descCharac": "Lucas est le héros de Mother 3 et il ressemble par bien des aspects à Ness et Ninten. Des similarités qui se retrouvent dans Smash Bros. Ultimate puisque Lucas utilise des capacités similaires, aux propriétés pourtant assez différentes pour qu'il soit joué comme un personnage différent. Ca n'en reste pas moins un personnage très technique, à réserver aux initiés.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Lucas.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Sonic ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sonic.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/sonic_en_sp.png",
+   "firstApp": "Sonic the Hedgehog (1991)\n\n",
+   "descCharac": "Sonic est la mascotte de SEGA. Il a fait la paix avec Mario et Nintendo depuis bien longtemps maintenant, si bien qu'il est un habitué de Smash Bros. Dans Ultimate, il est bien entendu le personnage le plus rapide de tous. Il se déplace à grande vitesse et utilise son corps comme une arme. C'est un expert pour arriver au contact de l'adversaire et lui faire de nombreux combos.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Sonic.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Roi dadidou",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_dedede.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/kirby_en.png",
+   "firstApp": "Kirby's Dream Land (1992)\n\n",
+   "descCharac": "Le Roi Dadidou est un ancien adversaire de Kirby qui cherchait à contrôler le Pays des Rêves. Bien qu'il soit dorénavant du côté du bien, il reste un rival de Kirby. Dans Smash Bros. Ultimate, il s'agit d'un combattant lourd qui maitrise les projectiles et plutôt mobile dans les airs. Son gros défaut vient de ses attaques qui sont très téléphonées.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Dadidou.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Olimar",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/olimar.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pikmin_en.png",
+   "firstApp": "Pikmin (2001)\n\n",
+   "descCharac": "Olimar est le capitaine d'une petite fusée qui s'est écrasée sur la planète des Pikmins. Il utilise alors ses petits herbes végétaux pour réparer son vaisseau et survivre à la faune locale. Dans Smash Bros. Ultimate, ses compétences au combat dépendent énormément de sa gestion des Pikmins, chacun ayant des propriétés différentes.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Olimar.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Lucario",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucario.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Diamant et Perle (2006)\n\n",
+   "descCharac": "Lucario est le représentant de la quatrième génération de Pokémon. Il remplaçait Mewtwo dans Smash Bros. Brawl en reprenant une partie de ses mouvements. Dans Ultimate, il est le seul combattant dont la puissance des coups augmente en fonction des dégâts qu'il subit. Cela en fait un personnage qui joue beaucoup sur la corde raide et capable de retourner les situations désespérées.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Lucario.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "R.O.B",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rob.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/famicomrobot_en.png",
+   "firstApp": "R.O.B 1985R.O.B. est un personnage bien singulier puisqu'il ne s'agit en fait pas d'un personnage de jeu vidéo, mais d'un jouet à connecter à une console de jeu créé par Nintendo. Dans Smash Bros. Ultimate, il utilise de très lourds objets et des lasers pour tenir l'adversaire à distance. Si le contact est inévitable, il peut utiliser son carburant pour créer de puissantes attaques ou s'enfuir. La jauge de carburant est limitée et se recharge petit à petit.\n\n\n\n",
+   "descCharac": "",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/ROB.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Link Cartoon ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/toon_link.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/zelda_en.png",
+   "firstApp": "The Legend of Zelda : The Wind Waker (2002)\n\n",
+   "descCharac": "Link Cartoon est l'incarnation du Héros du Vent dans The Wind Waker. Son look tout mignon n'en fait pas moins un adversaire redoutable dans Smash Bros. Ultimate. Il utilise des attaques spéciales comparables à ses homologues, mais ce sont ses attaques basiques qui sont différentes. Notamment dans les airs où il utilise ses pieds plutôt que son épée.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/LinkCartoon.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Wolf ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wolf.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/starfox_en_sp.png",
+   "firstApp": "Lylat Wars (1997)\n\n",
+   "descCharac": "Wolf est le rival et ennemi de Fox dans l'univers Star Fox. Il fait son grand retour en tant que combattant dans Smash Bros. Ultimate. Il possède des attaques puissantes qui immobilise les adversaires de part leur violence. Ses compétences sont des dérivées plus agressives de celles de Fox et Falco.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Wolf.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Villageois",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/villager.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/doubutsu_en_sp.png",
+   "firstApp": "Animal Crossing (2002)\n\n",
+   "descCharac": "Villageois est l'avatar du joueur dans la série Animal Crossing. Dans Smash Bros. Ultimate, il utilise des objets du quotidien pour se battre. Il est capable de se débrouiller aussi bien au corps-à-corps qu'à distance. Il demande cependant un peu de préparation pour révéler son plein potentiel, ce qui en fait un personnage un peu technique pour les débutants.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Villageois.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Mega man",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mega_man.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/rockman_en_sp.png",
+   "firstApp": "Mega Man (1987)\n\n",
+   "descCharac": "Mega Man est le robot héros de la série éponyme créée par Capcom. Sa particularité est qu'il copie les pouvoirs des boss qu'il arrive à vaincre. Dans Smash Bros. Ultimate, il apporte avec lui quelques uns de ces pouvoirs. Il est le personnage ayant le plus d'attaques à distance du jeu, et il ne tient qu'à vous d'en profiter.    ",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/MegaMan.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Entraîneuse wii fit",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wii_fit_trainer.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/wii_fit_en_sp.png",
+   "firstApp": "Wii Fit (2007)  ",
+   "descCharac": "L'Entraîneuse Wii Fit est l'une des coachs virtuels des logiciels de sport et de fitness dans Wii Fit. Dans Smash Bros. Ultimate, il s'agit d'une combattante agile et athlétique, capable de se soigner. Un bon sens du timing est indispensable pour utiliser ses capacités au bon moment, que ça soit pour toucher avec ses projectiles, pour se soigner ou pour profiter d'une invulnérabilité sur certains coups.    ",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/WiiFit.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Harmonie et Lumas",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rosalina_and_luma.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Super Mario Galaxy (2007)\n\n",
+   "descCharac": "Harmonie est la gardienne et la protectrice des Lumas, des bébés étoiles. Dans Smash Bros. Ultimate, elle utilise Luma pour couvrir plus de terrain et répandre la magie. Le Luma copie les techniques d'Harmonie, ce qui rend le personnage aussi difficile à maitriser qu'à affronter. Si Harmonie est attaquée, Luma est choqué et ne peut pas attaquer non plus. Si Luma est détruit, un autre Luma apparaitra dans quelques secondes.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Harmonie.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Little Mac ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/little_mac.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/punch_out_en_sp.png",
+   "firstApp": "Punch-Out!! (1984)\n\n",
+   "descCharac": "Little Mac est le tout petit héros boxeur devenu champion dans Punch-Out!!. Dans Smash Bors. Ultimate, c'est un personnage rapide et très puissant dès lors qu'il arrive à garder les pieds sur le sol. En revanche, il est complètement vulnérable dès lors qu'il se retrouve dans les airs et n'a que peu d'options pour revenir sur le terrain une fois éjecté.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/LittleMac.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Amphinobi",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/greninja.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. X et Y (2013)\n\n",
+   "descCharac": "Amphinobi est le représentant de la 6ème génération de Pokémon. Ce Pokémon Eau est très proche de Sacha dans le dessin animé. Dans Smash Bros. Ultimate, il s'agit d'un combattant très rapide, capable de tromper son adversaire et de le surprendre. Ses compétences au corps-à-corps sont très bonnes.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Amphinobi.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Combattant Mii Boxeur",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mii_fighter.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mii_en.png",
+   "firstApp": "Wii (2006)\n\n",
+   "descCharac": "Le Mii Boxeur est l'un des trois Mii jouables de Smash Bros. Ses attaques spéciales pouvaient être personnalisées dans les épisodes précédents, mais ce n'est plus le cas dans Ultimate. Le Mii Boxeur possède des compétences uniques et excelle au combat au corps-à-corps.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/MiiCombattant.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Combattant Mii Epeiste",
+   "imageToUrl": "\nMii Épéiste\n",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mii_en.png",
+   "firstApp": "Wii (2006)  ",
+   "descCharac": "Le Mii Épéiste est l'un des trois Mii jouables de Smash Bros. Ses attaques spéciales pouvaient être personnalisées dans les épisodes précédents, mais ce n'est plus le cas dans Ultimate. Le Mii Épéiste possède des compétences uniques et excelle au combat à mi-distance grâce à la portée de sa lame.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/MiiEpeiste.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Combattant Mii Tireur",
+   "imageToUrl": "",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mii_en.png",
+   "firstApp": "Wii (2006)  ",
+   "descCharac": "Le Mii Tireur est l'un des trois Mii jouables de Smash Bros. Ses attaques spéciales pouvaient être personnalisées dans les épisodes précédents, mais ce n'est plus le cas dans Ultimate. Le Mii Tireur possède des compétences uniques et excelle au combat à distance.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/MiiTireur.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Palutena",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/palutena.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/palutena_en_sp.png",
+   "firstApp": "Kid Icarus (1986)\n\n",
+   "descCharac": "Palutena est la déesse de la Lumière à qui Pit doit le pouvoir de voler ainsi que son arc. Dans Smash Bros. Ultimate, Palutena est une combattante de longue et mi-distance. Ses ailes et ses différents pouvoirs lui permettent d'assurer une pression constante sur les adversaires.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Palutena.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Pac-Man",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pac_man.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pacman_en_sp.png",
+   "firstApp": "Pac-Man (1980)\n\n",
+   "descCharac": "Pac-Man est l'un des premiers personnages de jeux vidéo, à l'époque de l'arcade. Il est une figurine emblématique et la mascotte de Namco, qui développe Smash Bros. Ultimate avec Nintendo. Dans ce jeu, il utilise différents objets pour effectuer divers actions. C'est donc un personnage plutôt technique.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/PacMan.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Daraen",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/robin.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem Awakening (2012)\n\n",
+   "descCharac": "Daraen est le héros de Fire Emblem Awakening qui aide Chrom et Lucina dans leur quête. Dans Smash Bros. Ultimate, il s'agit d'un combattant hybride, maitrisant autant l'épée que la magie. Il dispose de plusieurs tomes magiques d'éléments différents qui modifient les propriétés de ses différentes attaques.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Daraen.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Shulk",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shulk.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/xenoblade_en_sp.png",
+   "firstApp": "Xenoblade (2010)\n\n",
+   "descCharac": "Shulk est le héros de Xenoblade et l'héritier de la Monado, une épée qui offre le pouvoir de prescience à son porteur. Dans Smash Bros. Ultimate, il peut alterner entre 5 différentes formes, chacune lui apportant des bonus différents. Maitriser le personnage demande une réactivité supérieure afin de changer de forme pour se tirer de toutes les situations.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Shulk.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Browser Jr.",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser_jr.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/mario_en_sp.png",
+   "firstApp": "Super Mario Sunshine (2002)\n\n",
+   "descCharac": "Bowser Jr. est le fils de Bowser, bien décidé à kidnapper Peach car il est persuadé qu'elle est sa mère. Dans Smash Bros. Ultimate, il utilise l'arsenal de la Koopamobile pour se battre. C'est un des rares personnages lourds à disposer de véritables options à distance. Bowser Jr. subit moins de dégâts quand c'est son véhicule qui subit les coups.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/BowserJr..png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Duo duck hunt",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/duck_hunt.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/duckhunt_en.png",
+   "firstApp": "Duck Hunt (1984)\n\n",
+   "descCharac": "Le Duo Duck Hunt est le jeu le plus emblématique à avoir utilisé le NES Zapper, un accessoire en forme de pistolet pour la console. Dans Smash Bros. Ultimate, le duo met en place des objets et des pièges qui se déclenchent à retardement, changeant le timing habituel du combat. C'est donc un personnage plutôt technique, mais pouvant occasionner des dégâts facilement.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/DuckHunt.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ryu",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ryu.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/streetfighter_en_sp.png",
+   "firstApp": "Street Fighter (1987)\n\n",
+   "descCharac": "Ryu est le combattant emblématique de la série de jeu de combats Street Fighter. Il est connu comme le combattant vagabond. Dans Smash Bors. Ultimate, il se joue de la même manière que dans Street Fighter et y conserve ses attaques les plus emblématiques. Il s'agit donc d'un excellent combattant au corps-à-corps, capable aussi bien de saisir l'adversaire que de l'envoyer voler. Ses attaques spéciales sont plus puissantes quand elles sont exécutés de la même manière que dans Street Fighter.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ryu.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ken ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ken.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/streetfighter_en_sp.png",
+   "firstApp": "Street Fighter (1987)\n\n",
+   "descCharac": "Ken est un autre ccombattant de Street Fighter et le rival de Ryu. Dans Smash Bors. Ultimate, il est un combattant écho de Ryu et partage donc les mêmes coups spéciaux, à l'image de Street Fighter. Ses statistiques sont en revanche différentes, puisque Ken se déplace plus vite et fait plus de dégâts aux pieds quand Ryu fait plus de dégâts aux poings. Ses attaques spéciales sont plus puissantes quand elles sont exécutés de la même manière que dans Street Fighter\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ken.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Cloud",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/cloud.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/finalfantasy_en_sp.png",
+   "firstApp": "Final Fantasy VII (1997)\n\n",
+   "descCharac": "Cloud est le héros de Final Fantasy et probablement le héros le plus emblématique de la franchise, voire de tout Square-Enix. Dans Smash Bros. Ultimate, il profite de sa très longue épée pour trancher ses adversaires à mi-distance. Il peut canaliser sa jauge de Limite pour renforcer sa prochaine attaque spéciale.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Cloud.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Corrin ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/corrin.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/fireemblem_en_sp.png",
+   "firstApp": "Fire Emblem Fates (2015)\n\n",
+   "descCharac": "Corrin est le prince de deux royaumes en conflit, Hoshido et Nohr. Il possède la particularité de pouvoir se transformer partiellement ou complètement en dragon. Dans Smash Bros. Ultimate, il utilise ces transformations pour se battre aussi bien à l'épée qu'avec des appendices de dragons. Il s'agit d'un combattant versatile, qui peut utiliser ses capacités de plusieurs manières différentes, selon les situations.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Corrin.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Bayonneta",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bayonetta.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/bayonetta_en.png",
+   "firstApp": "Bayonetta (2009)\n\n",
+   "descCharac": "Bayonetta est une sorcière ayant conclu des alliances avec différents démons afin de combattre les anges. Elle est l'héritière de l'Oeil Gauche du Monde, la moitié du pouvoir qui a créé le monde des humains. Dans Smash Bros. Ultimate, elle utilise des coups de pieds ultra-rapide pour expédier ses adversaires en l'air et faire de très nombreux combos. Elle excelle donc au dessus du sol et dans la projection des ennemis.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Bayonetta.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "InLink",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/inkling.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/splatoon_en_sp.png",
+   "firstApp": "Splatoon (2015)\n\n",
+   "descCharac": "Inkling est l'avatar du joueur dans Splatoon. Elle possède de nombreuses armes à base de peinture et peut se transformer en pieuvre pour nager dans ses tâches. Elle hérite de ces armes dans Smash Bros. Ultimate, ce qui lui donne un arsenal très complet idéal à mi-distance. Les adversaires couverts de peinture subissent des dégâts supplémentaires à chaque attaque.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Inkling.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Ridley",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ridley.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/metroid_en.png",
+   "firstApp": "Metroid (1986)\n\n",
+   "descCharac": "Ridley est l'ennemi juré de Samus Aran et un des boss les plus emblématiques de toutes les franchises Nintendo. Il a été réclamé par la communauté de Smash Bros. depuis plus de 20 ans et il fait enfin son apparition dans Smash Ultimate. Il s'agit d'un personnage ultra puissant, capable d'infliger jusqu'à 50% de dégâts en une seule attaque. Il est en revanche très gros et punissable, s'il rate ses attaques.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Ridley.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Simon ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/simon.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/dracula_en.png",
+   "firstApp": "Castlevania (1986)\n\n",
+   "descCharac": "Simon est le premier héros de la saga Castlevania de Konami. Il est l'héritier du fouet tueur de vampires et a pour mission de tuer Dracula. Dans Smash Bros. Ultimate, il est le personnage avec la meilleure portée grâce à son fouet et il utilise les armes bonus emblématiques de Castlevania en guise d'attaques spéciales.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Simon.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Richter",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/richter.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/dracula_en.png",
+   "firstApp": "Castlevania : Rondo of Blood (1993)\n\n\n\n",
+   "descCharac": "Richter est un descendant de Simon, lui aussi destiné à arrêter Dracula avec le Tueur de Vampire. Dans Smash Bros. Ultimate, il est un combattant écho de Simon. Il possède donc les mêmes capacités et caractéristiques.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Richter.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "King K. Rool",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_k_rool.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/donkeykong_en.png",
+   "firstApp": "1981",
+   "descCharac": "King K.Rool est le roi des Kremlins et l'ennemi juré de Donkey Kong. Après avoir échoué à voler toutes les bananes du primate, il l'a kidnappé à plusieurs reprises, forçant le reste de la famille Kong à venir à son secours. Dans Smash Bros. Ultimate, il s'agit d'un personnage lourd qui maitrise différentes types de projectiles lent, mais puissants. Son torse est couvert d'une armure dorée qui lui permet d'encaisser des coups, mais qui peut se briser si elle en subit trop.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/KRool.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Marie",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shizue.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/doubutsu_en_sp.png",
+   "firstApp": "Animal Crossing : New Leaf (2012)\n\n",
+   "descCharac": "Marie est l'adjointe au Maire d'Animal Crossing. Elle est très gentille et d'un tempérament très joviale, bien qu'un peu timide. Dans Smash Bros. Ultimate, elle reprend une partie des compétences du Villageois, mais les utilise totalement différement. Sa canne à pêche, en particulier, est un outil redoutable.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Marie.png",
+   "tiersRanking": ""
+ },
+ {
+   "name": "Félinferno ",
+   "imageToUrl": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/gaogaen.png",
+   "serieToUrl": "https://www.smashbros.com/assets_v2/img/fighter/logo/pokemon_en.png",
+   "firstApp": "Pokémon ver. Soleil et Lune (2016)\n\n",
+   "descCharac": "Felinferno est le représentant de la 7ème génération de Pokémon. Dans Smash Bros. Ultimate, son style de combat s'articule autour des prises et des mouvements de catch. C'est un personnage à gros risques pour de grosses récompenses. Il doit faire très attention à ne pas se suicider avec ses adversaires. C'est également le personnage le plus lent du jeu.\n\n\n\n",
+   "imToUrlCh": "https://www.eclypsia.com/content/Nintendo/SuperSmashBros/Personnages/Felinferno.png",
+   "tiersRanking": ""
+ }
+]
